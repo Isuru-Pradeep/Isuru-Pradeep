@@ -1,52 +1,98 @@
-# 👨‍💻 Isuru Pradeep 
+# Hello, I'm Isuru Pradeep! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
 
-**Hi there! Welcome to my GitHub profile!** 🌟  
-I am an **IT undergraduate** with a passion for **technology**, **innovation**, and **problem-solving**. My journey in tech revolves around designing impactful web applications, building scalable systems, and crafting creative solutions to challenging problems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=FFDD00&width=435&lines=Turning+ideas+into+reality...;One+line+of+code+at+a+time!+💻✨" alt="Typing Animation" />
+</p>
+
+<p align="center" style="margin: 20px 0;">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611bepmu6vu1yhnik5swvrbkmvl07wpkgs46mf15frc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding Animation" style="max-width: 100%; height: auto; width: auto;">
+</p>
+
+
+
 
 ---
 
 ## 🚀 About Me  
 
-- 🌐 **Full-Stack Developer** skilled in **Spring Boot** and **React**.  
-- 🧠 Enthusiast of **AI-driven solutions**, **AWS integration**, and **cutting-edge technologies**.  
-- 🎨 Creative entrepreneur with experience in laser cutting & engraving unique products.  
-- ✨ Interested in **entrepreneurship**, **creative design**, and **building scalable solutions**.  
-- 💡 Constant learner with a drive to deliver **excellence** and make a **lasting impact**.  
+<p align="justify">
+I am an IT undergraduate with a passion for <strong>technology</strong>, <strong>innovation</strong>, and <strong>problem-solving</strong>. I specialize in designing impactful web applications, building scalable systems, and exploring creative solutions to complex challenges.  
+</p>
 
 ---
 
-## 🔧 Technologies & Skills  
+## 🛠️ Tech Stack  
 
-### **Programming & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+### Programming Languages  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,typescript,html,css" alt="Programming Languages" />
+  </a>
+</p>
 
-### **Database & Cloud**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Frameworks & Libraries  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,flutter,react,nextjs,nodejs" alt="Frameworks & Libraries" />
+  </a>
+</p>
 
-### **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Tools & Platforms  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,intellij,figma,postman,linux,mysql,mongodb,sqlite" alt="Tools & Platforms" />
+  </a>
+</p>
 
----
-
-## 📈 My Stats  
-
-![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isuru-Pradeep&show_icons=true&theme=radical)
-
----
-
-## 📞 Let's Connect!  
-
-- **LinkedIn**: [Isuru Pradeep](https://www.linkedin.com/in/isuru-pradeep/)  
-- **WhatsApp**: [Chat with me](https://wa.me/94766664562)  
-- **Email**: [pradeepisuru31@gmail.com.com](mailto:pradeepisuru31@gmail.com.com)  
+### Special Interests  
+- 🤖 **AI/ML**: Leveraging AI-driven solutions for automation and optimization.  
+- ☁️ **Cloud Integration**: Skilled with **AWS** for database and deployment solutions.  
+- 🎨 **Laser Cutting & Engraving**: Experience with CNC machines for creative product design.  
 
 ---
 
-🌟 **"Stay curious, stay passionate, and build a better future!"**
+## 🌟 Beyond Code  
+
+Here are some cool facts about me:  
+- 🛠️ I enjoy crafting **unique products** using **laser cutting** and **engraving**, blending technology with creativity.  
+- 🤖 I have a keen interest in **AI-driven solutions** and love integrating **AWS services** into my projects.  
+- 🎨 I’m passionate about **creative design** and entrepreneurship, always looking for new ways to innovate!  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isuru-Pradeep&show_icons=true&theme=tokyonight&hide_border=true" alt="Isuru's GitHub Stats" height="165px" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru-Pradeep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165px" />  
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Isuru-Pradeep&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 📬 Contact Information  
+
+<p align="center">
+  Let's connect and collaborate!  
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/isuru-pradeep/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/94766664562" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:pradeepisuru31@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+   Stay curious, stay passionate, and build a better future.
+</p>
