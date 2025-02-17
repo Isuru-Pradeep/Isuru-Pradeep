@@ -42,12 +42,7 @@ I am an IT undergraduate with a passion for <strong>technology</strong>, <strong
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,intellij,figma,postman,linux,mysql,mongodb,sqlite" alt="Tools & Platforms" />
   </a>
-</p>
-
-### Special Interests  
-- 🤖 **AI/ML**: Leveraging AI-driven solutions for automation and optimization.  
-- ☁️ **Cloud Integration**: Skilled with **AWS** for database and deployment solutions.  
-- 🎨 **Laser Cutting & Engraving**: Experience with CNC machines for creative product design.  
+</p>  
 
 ---
 
