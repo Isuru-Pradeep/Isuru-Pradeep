@@ -1,4 +1,4 @@
-# Hello, I'm Isuru Pradeep! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
+# Hello World!, I'm Isuru Pradeep! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=FFDD00&width=435&lines=Turning+ideas+into+reality...;One+line+of+code+at+a+time!+💻✨" alt="Typing Animation" />
