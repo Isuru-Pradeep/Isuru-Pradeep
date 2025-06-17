@@ -40,7 +40,7 @@ I am an IT undergraduate with a passion for <strong>technology</strong>, <strong
 ### Tools & Platforms  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,intellij,figma,postman,linux,mysql,mongodb,sqlite" alt="Tools & Platforms" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,idea,figma,postman,linux,mysql,mongodb,sqlite" alt="Tools & Platforms" />
   </a>
 </p>  
 
