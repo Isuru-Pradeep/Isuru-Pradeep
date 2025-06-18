@@ -1,7 +1,7 @@
 # Hello World!, I'm Isuru Pradeep! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=1EF736&center=true&vCenter=true&random=true&width=435&lines=Turning+ideas+into+reality...;One+line+of+code+at+a+time!+%F0%9F%92%BB%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=100&duration=3000&pause=1000&color=1EF736&random=true&width=435&lines=Turning+ideas+into+reality...;One+line+of+code+at+a+time!+%F0%9F%92%BB%E2%9C%A8" alt="Typing Animation" />
 </p>
 
 <p align="center" style="margin: 20px 0;">
