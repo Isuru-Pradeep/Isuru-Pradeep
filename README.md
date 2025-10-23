@@ -16,7 +16,7 @@
 ## 🚀 About Me  
 
 <p align="justify">
-I am an IT undergraduate with a passion for <strong>technology</strong>, <strong>innovation</strong>, and <strong>problem-solving</strong>. I specialize in designing impactful web applications, building scalable systems, and exploring creative solutions to complex challenges.  
+I am an aspiring Software Engineer with a strong passion for <strong>technology</strong>, <strong>innovation</strong>, and <strong>problem-solving</strong>. Currently completing my internship at <strong>PayMedia</strong>, where I contribute to building scalable <strong>fintech applications</strong> using <strong>Spring Boot</strong>, <strong>microservices</strong>, and <strong>cloud technologies</strong>. I specialize in developing robust backend systems, integrating modern web solutions with <strong>React</strong> and <strong>AWS</strong>, and crafting efficient, maintainable software that drives real-world impact.
 </p>
 
 ---
@@ -33,14 +33,14 @@ I am an IT undergraduate with a passion for <strong>technology</strong>, <strong
 ### Frameworks & Libraries  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,flutter,react,nextjs,nodejs" alt="Frameworks & Libraries" />
+    <img src="https://skillicons.dev/icons?i=spring,react,vue,nextjs,nodejs,flutter" alt="Frameworks & Libraries" />
   </a>
 </p>
 
 ### Tools & Platforms  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,idea,figma,postman,linux,mysql,mongodb,sqlite" alt="Tools & Platforms" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,vscode,idea,figma,postman,linux,mysql,postgresql,mongodb" alt="Tools & Platforms" />
   </a>
 </p>  
 
@@ -48,10 +48,11 @@ I am an IT undergraduate with a passion for <strong>technology</strong>, <strong
 
 ## 🌟 Beyond Code  
 
-Here are some cool facts about me:  
-- 🛠️ I enjoy crafting **unique products** using **laser cutting** and **engraving**, blending technology with creativity.  
-- 🤖 I have a keen interest in **AI-driven solutions** and love integrating **AWS services** into my projects.  
-- 🎨 I’m passionate about **creative design** and entrepreneurship, always looking for new ways to innovate!  
+Here are a few things that define me beyond coding:  
+- 🧠 I’m passionate about building **AI-powered solutions**, including my **Top 5 Final Year Project** — an AI-based interior color recommendation system.  
+- 🚀 I founded **Zephyr Matrix**, a tech solutions company focused on **AI**, **web development**, and **digital transformation**.  
+- 💡 I enjoy combining **engineering and creativity**, crafting unique **laser-cut products** and exploring the intersection of **technology and design**.  
+- 🌍 I love learning about **cloud technologies**, **system scalability**, and **software architecture**, always looking to push the boundaries of innovation.
 
 ---
 
