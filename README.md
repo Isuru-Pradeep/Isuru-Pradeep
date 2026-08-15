@@ -1,66 +1,63 @@
-# Hello World!, I'm Isuru Pradeep! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
+# Hi, I'm Isuru Pradeep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=100&duration=3000&pause=1000&color=1EF736&random=true&width=435&lines=Turning+ideas+into+reality...;One+line+of+code+at+a+time!+%F0%9F%92%BB%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&duration=3000&pause=1000&color=1EF736&center=true&vCenter=true&width=520&lines=Software+Engineer+%40+PayMedia;Java+%7C+Spring+Boot+%7C+Microservices;Cloud-Native+%7C+Docker+%7C+Kubernetes+%7C+OpenShift" alt="Typing Animation" />
 </p>
 
-<p align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611bepmu6vu1yhnik5swvrbkmvl07wpkgs46mf15frc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding Animation" style="max-width: 100%; height: auto; width: auto;">
-</p>
-
-
-
-
----
-
-## 🚀 About Me  
-
-<p align="justify">
-I am an aspiring Software Engineer with a strong passion for <strong>technology</strong>, <strong>innovation</strong>, and <strong>problem-solving</strong>. Currently completing my internship at <strong>PayMedia</strong>, where I contribute to building scalable <strong>fintech applications</strong> using <strong>Spring Boot</strong>, <strong>microservices</strong>, and <strong>cloud technologies</strong>. I specialize in developing robust backend systems, integrating modern web solutions with <strong>React</strong> and <strong>AWS</strong>, and crafting efficient, maintainable software that drives real-world impact.
+<p align="center">
+  <a href="https://www.linkedin.com/in/isuru-pradeep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pradeepisuru31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Isuru-Pradeep&style=for-the-badge&color=1EF736&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## About Me
 
-### Programming Languages  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,typescript,html,css" alt="Programming Languages" />
-  </a>
-</p>
+Software Engineer based in Kandy, Sri Lanka, specializing in **Java Spring Boot microservices**, **cloud-native systems**, and **fintech platforms**. Currently a Junior Software Engineer at **PayMedia**, building digital banking services for clients including Bank of Ceylon, Sampath Bank, and SDB — from OAuth 2.0 payment integrations to Kubernetes and OpenShift deployments.
 
-### Frameworks & Libraries  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,vue,nextjs,nodejs,flutter" alt="Frameworks & Libraries" />
-  </a>
-</p>
-
-### Tools & Platforms  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,vscode,idea,figma,postman,linux,mysql,postgresql,mongodb" alt="Tools & Platforms" />
-  </a>
-</p>  
+- Building scalable backend services and enterprise API integrations
+- Author of IEEE-published research in applied deep learning
+- B.Sc. (Hons) Information Technology, Rajarata University of Sri Lanka
 
 ---
 
-## 🌟 Beyond Code  
+## Tech Stack
 
-Here are a few things that define me beyond coding:  
-- 🧠 I’m passionate about building **AI-powered solutions**, including my **Top 5 Final Year Project** — an AI-based interior color recommendation system.  
-- 🚀 I founded **Zephyr Matrix**, a tech solutions company focused on **AI**, **web development**, and **digital transformation**.  
-- 💡 I enjoy combining **engineering and creativity**, crafting unique **laser-cut products** and exploring the intersection of **technology and design**.  
-- 🌍 I love learning about **cloud technologies**, **system scalability**, and **software architecture**, always looking to push the boundaries of innovation.
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,html,css" alt="Languages" />
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,flutter" alt="Frameworks" />
+</p>
+
+**Databases & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,kubernetes,aws,azure,nginx,linux,git" alt="Infrastructure" />
+</p>
+
+**Also working with:** OpenShift · Harbor · RabbitMQ · Apache JMeter · Spring Security · JPA/Hibernate · CI/CD
 
 ---
 
-## 📊 GitHub Stats  
+## Publications
+
+**An AI-Driven Approach for User-Personalized Interior Color Matching Using Room Complexity and Visual Context**<br>
+IEEE SCSE 2026 · [doi:10.1109/SCSE70081.2026.11499927](https://doi.org/10.1109/SCSE70081.2026.11499927)
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isuru-Pradeep&show_icons=true&theme=tokyonight&hide_border=true" alt="Isuru's GitHub Stats" height="165px" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru-Pradeep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165px" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Isuru-Pradeep&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru-Pradeep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165px" />
 </p>
 
 <p align="center">
@@ -69,26 +66,6 @@ Here are a few things that define me beyond coding:
 
 ---
 
-## 📬 Contact Information  
-
 <p align="center">
-  Let's connect and collaborate!  
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/isuru-pradeep/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/94766664562" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:pradeepisuru31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">
-   Stay curious, stay passionate, and build a better future.
+  <i>Stay curious, stay passionate, and build a better future.</i>
 </p>
