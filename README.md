@@ -14,7 +14,7 @@
 
 ## About Me
 
-Software Engineer based in Kandy, Sri Lanka, specializing in **Java Spring Boot microservices**, **cloud-native systems**, and **fintech platforms**. Currently a Junior Software Engineer at **PayMedia**, building digital banking services for clients including Bank of Ceylon, Sampath Bank, and SDB — from OAuth 2.0 payment integrations to Kubernetes and OpenShift deployments.
+Software Engineer based in Sri Lanka, specializing in **Java Spring Boot microservices**, **cloud-native systems**, and **fintech platforms**. Currently a Junior Software Engineer at **PayMedia**, building digital banking services for clients including Bank of Ceylon, Sampath Bank, and SDB — from OAuth 2.0 payment integrations to Kubernetes and OpenShift deployments.
 
 - Building scalable backend services and enterprise API integrations
 - Author of IEEE-published research in applied deep learning
@@ -50,19 +50,6 @@ Software Engineer based in Kandy, Sri Lanka, specializing in **Java Spring Boot 
 
 **An AI-Driven Approach for User-Personalized Interior Color Matching Using Room Complexity and Visual Context**<br>
 IEEE SCSE 2026 · [doi:10.1109/SCSE70081.2026.11499927](https://doi.org/10.1109/SCSE70081.2026.11499927)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isuru-Pradeep&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru-Pradeep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165px" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Isuru-Pradeep&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
 
 ---
 
