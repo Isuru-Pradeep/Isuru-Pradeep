@@ -14,7 +14,7 @@
 
 ## About Me
 
-Software Engineer based in Sri Lanka, specializing in **Java Spring Boot microservices**, **cloud-native systems**, and **fintech platforms**. Currently a Junior Software Engineer at **PayMedia**, building digital banking services for clients including Bank of Ceylon, Sampath Bank, and SDB — from OAuth 2.0 payment integrations to Kubernetes and OpenShift deployments.
+Software Engineer based in Sri Lanka, specializing in **Java Spring Boot microservices**, **cloud-native systems**, and **fintech platforms**. Currently a Software Engineer at **PayMedia**, building digital banking services for clients including Bank of Ceylon, Sampath Bank, and SDB — from OAuth 2.0 payment integrations to Kubernetes and OpenShift deployments.
 
 - Building scalable backend services and enterprise API integrations
 - Author of IEEE-published research in applied deep learning
